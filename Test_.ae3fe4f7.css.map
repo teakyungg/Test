@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,IACI,WAAY,CACZ,YAAa,CACb,wBAA2B,CAE3B,aACJ","file":"Test_.ae3fe4f7.css","sourceRoot":"..","sourcesContent":["div{\r\n    width: 300px;\r\n    height: 300px;\r\n    background-color: lightblue;\r\n\r\n    margin: 0 auto;\r\n}"]}
